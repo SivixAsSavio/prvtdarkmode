@@ -1,0 +1,9 @@
+ml>{
+  "name": "whishmoney",
+  "version": "1.7.4",
+  "private": true,
+  "author": "Walid Itani - Tecfrac",
+  "license": "TecFrac",
+  "description": "Web Browser",
+  "main": "background.js",
+  "dependencies": {
